@@ -20,13 +20,9 @@
     font-size: 1.8rem;
     color: #888888;
 }
-
-/* Media query para dispositivos de menor tamaño */
 @media (max-width: 768px) {
-
     .card-title {
         font-size: 1.8rem;
-        /* Tamaño de fuente reducido para el título */
     }
 
     .card {
@@ -41,6 +37,13 @@
 
     .card-text {
         font-size: 1.4rem;
-        /* Tamaño de fuente reducido para el texto */
+    }
+
+    .card-link {
+        margin-top: 20px;
+    }
+
+    .card-text{
+        padding-bottom: 20px;
     }
 }
