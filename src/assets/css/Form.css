@@ -1,0 +1,15 @@
+iframe {
+    width: 100%;
+    max-width: 840px;
+    height: 500px;
+    border: none;
+    margin: 0 auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    iframe {
+        max-width: 100%;
+        height: 800px;
+    }
+}

@@ -1,0 +1,46 @@
+/* CSS base */
+.img-fluid {
+    border-right: 1px solid #ccc;
+}
+
+.card-title {
+    font-size: 2.5rem;
+}
+
+.card-link {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1.8rem;
+    color: #888888;
+}
+
+/* Media query para dispositivos de menor tamaño */
+@media (max-width: 768px) {
+
+    .card-title {
+        font-size: 1.8rem;
+        /* Tamaño de fuente reducido para el título */
+    }
+
+    .card {
+        margin-left: 10px;
+        max-width: 90%;
+    }
+
+    .img-fluid {
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .card-text {
+        font-size: 1.4rem;
+        /* Tamaño de fuente reducido para el texto */
+    }
+}
