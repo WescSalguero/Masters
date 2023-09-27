@@ -7,7 +7,7 @@ import '../assets/css/Home.css'
 import Curriculum from "../assets/images/Curriculum.png"
 import Docencia from "../assets/images/Docencia.png"
 import Filosofia from "../assets/images/Filosofía.png"
-import MUD from "../assets/images/MUD.png"
+import MUD from "../assets/images/MDU.png"
 import Investigación from "../assets/images/Investigación.png"
 import Bibliotecología from "../assets/images/Bibliotecología.png"
 import Editorial from "../assets/images/Editorial.png"
