@@ -21,7 +21,7 @@ const info = [
     { name: "Maestría en Docencia universitaria", image: Docencia, category: "Categoría en Ciencias", link: "https://drive.google.com/file/d/1Qi9nm0-8jYlx_e56zpzxvDRM6Sjx_joN/view" },
     { name: "Maestría en Filosofía", image: Filosofia, category: "Categoría en Ciencias", link: "https://drive.google.com/file/d/1XGHf36dNP8BUGYVWRBxU5Mt6ZpzsxTOH/view" },
     { name: "MDU", image: MUD, category: "Con Énfasis en Tecnologías Innovadoras de la Educación", link: "https://drive.google.com/file/d/1wIEFgVPWgbqqueGGToLYz61v8rE8-NGk/view" },
-    { name: "Maestría en Inversigación", image: Investigación, category: "Categoría en Ciencias", link: "https://drive.google.com/file/d/1u2DE5Ci1_L6O862xg4HQM1GmaZUDpOSX/view" },
+    { name: "Maestría en Investigación", image: Investigación, category: "Categoría en Ciencias", link: "https://drive.google.com/file/d/1u2DE5Ci1_L6O862xg4HQM1GmaZUDpOSX/view" },
     { name: "Maestría en Bibliotecología ", image: Bibliotecología, category: "y ciencia de la Infomación", link: "https://drive.google.com/file/d/1NlpMp8gyI8JPPybdAOqBs3h4yUXG3zW8/view" },
     { name: "Maestría en Edición Editorial", image: Editorial, category: "", link: "https://drive.google.com/file/d/1uKOsxqwPkd12AZ6_1Tl8kFdvNoFfFJcR/view" },
     { name: "Maestría en Expresión Artística", image: Cultural, category: "Con énfasis en gestión cultural", link: "https://drive.google.com/file/d/1Q8RQDnz4nnaPFlMLUHz69YhdhzORET0A/view" },
