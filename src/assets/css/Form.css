@@ -7,6 +7,20 @@ iframe {
     display: block;
 }
 
+
+.container {
+    perspective: 1000px;
+}
+
+.form {
+    /* Otros estilos aquí */
+    transform-style: preserve-3d;
+    /* Mantiene los elementos hijos en 3D */
+    transform: rotateX(20deg);
+    /* Aplica la rotación en el eje X */
+}
+
+/* ... Otros estilos ... */
 @media (max-width: 768px) {
     iframe {
         max-width: 100%;
